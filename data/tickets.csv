@@ -1,0 +1,6 @@
+ticket_id,subject,description,status,sentiment,created_at
+1,Password reset issue,I'm unable to reset my password after trying multiple times.,Open,Negative,2025-07-01 10:12:00
+2,Payment not reflected,I paid online but it's not showing up in my account.,Closed,Neutral,2025-07-02 08:45:00
+3,Account locked,My account is locked after three failed attempts.,Open,Negative,2025-07-03 14:22:00
+4,Refund delay,I requested a refund 10 days ago, still not received.,Closed,Negative,2025-07-04 09:11:00
+5,Feature request,Can you add dark mode to the dashboard?,Open,Positive,2025-07-05 12:33:00
